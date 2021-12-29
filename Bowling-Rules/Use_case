@@ -1,0 +1,8 @@
+1. Juego consiste en 10 frame
+2. Cada fram el jugador tiene 2 turnos para tumbar 10 pins
+3. El score del frame es el total de los pins caidos en cada turno, 
+mas bono strike spares
+4. Cuando tumba todos los 10 pins en los 2 turnos, es un spare.
+El bono para este frame es el numero de pins tumabdos en el siguiente roll.
+5. En el decimo (10) frame si el jugador hace un spare o strike tiene un turno mas,
+ no pude exceder los tres turnos.
